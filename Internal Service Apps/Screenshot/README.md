@@ -24,7 +24,7 @@ Dengan memanfaatkan ekosistem Power Platform (Power Apps untuk antarmuka penggun
 
 ---
 
-## 🧩 Application Features & Module Descriptions
+### 🧩 Application Features & Module Descriptions
 
 Aplikasi ini dibagi menjadi beberapa modul utama yang mewakili alur kerja bisnis spesifik. Berikut adalah rincian fungsionalitas dan tujuan masing-masing modul:
 
@@ -56,7 +56,7 @@ Aplikasi ini dibagi menjadi beberapa modul utama yang mewakili alur kerja bisnis
 
 ---
 
-## 🗄️ Master Data Management
+### 🗄️ Master Data Management
 
 Untuk memastikan hierarki organisasi dan aturan bisnis berjalan otomatis dan akurat, aplikasi ini dilengkapi dengan pengelolaan Master Data yang komprehensif. Modul ini dikhususkan bagi Administrator sistem.
 
@@ -68,7 +68,7 @@ Fitur Master Data mencakup pengelolaan:
 
 ---
 
-## 📸 Application Screenshots
+### 📸 Application Screenshots
 
 ### Home & Task Approvals
 | Home Dashboard | Task Approvals |
