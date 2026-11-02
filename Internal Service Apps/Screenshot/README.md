@@ -93,8 +93,12 @@ Fitur Master Data mencakup pengelolaan:
 ### Master Data Management
 | Master Data Menu |
 | :---: |
-| ![Master Data Management](4-list-and-form-master.png)
+| ![Master Data Management](4-list-and-form-master.png) |
+
+### Notification Email
+| Email After Submit | Email Revision | Email Completed | Email Reminder |
+| :---: | :---: | :---: | :---: |
+| ![Notification Email](5-notification-email-submit.png) | ![Notification Email](6-notification-email-revision-required.png) | ![Notification Email](7-notification-email-complete.png) | ![Notification Email](8-notification-email-reminder.png) |
 
 ---
 *Dokumentasi Portofolio disusun secara profesional untuk mendemonstrasikan kapabilitas pengembangan dan pemahaman alur kerja bisnis menggunakan Microsoft Power Platform.*
-```eof
