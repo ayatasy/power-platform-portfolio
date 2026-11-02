@@ -70,17 +70,15 @@ Fitur Master Data mencakup pengelolaan:
 
 ## 📸 Application Screenshots
 
-*(Catatan: Gambar akan tampil otomatis jika file tersedia di dalam folder `Screenshot` pada repositori ini. Jika screenshot belum tersedia, teks deskriptif akan ditampilkan sebagai placeholder).*
-
 ### Home & Task Approvals
 | Home Dashboard | Task Approvals |
 | :---: | :---: |
-| ![Home](Screenshot/Home.png)<br>*(Screenshot belum tersedia)* | ![Task Approvals](Screenshot/Task_Approvals.png)<br>*(Screenshot belum tersedia)* |
+| ![Home](1-home-dashboard.png) | ![Task Approvals](Screenshot/Task_Approvals.png)<br>*(Screenshot belum tersedia)* |
 
 ### Cash Advance Module
 | List Cash Advance | Form Cash Advance |
 | :---: | :---: |
-| ![List Cash Advance](Screenshot/List_Cash_Advance.png)<br>*(Screenshot belum tersedia)* | ![Form Cash Advance](Screenshot/Form_Cash_Advance.png)<br>*(Screenshot belum tersedia)* |
+| ![List Cash Advance](2-list-request.png) | ![Form Cash Advance](3-form-request.png) |
 
 ### Internal Free Product (IFP) Module
 | List IFP | Form IFP |
@@ -93,13 +91,10 @@ Fitur Master Data mencakup pengelolaan:
 | ![List MEV](Screenshot/List_MEV.png)<br>*(Screenshot belum tersedia)* | ![Form MEV](Screenshot/Form_MEV.png)<br>*(Screenshot belum tersedia)* |
 
 ### Master Data Management
-| Master Data Menu | Detail Master Data |
-| :---: | :---: |
-| ![Master Data Management](Screenshot/Master_Data.png)<br>*(Screenshot belum tersedia)* | ![Detail Master Data](Screenshot/Detail_Master_Data.png)<br>*(Screenshot belum tersedia)* |
+| Master Data Menu |
+| :---: |
+| ![Master Data Management](4-list-and-form-master.png)
 
 ---
 *Dokumentasi Portofolio disusun secara profesional untuk mendemonstrasikan kapabilitas pengembangan dan pemahaman alur kerja bisnis menggunakan Microsoft Power Platform.*
 ```eof
-
-**Ringkasan Perubahan:**
-File `README.md` telah dibuat dan dirancang khusus untuk portofolio Power Apps Anda. Saya telah mengelompokkan halaman-halaman tersebut berdasarkan modulnya dengan menyertakan fungsi, manfaat, serta menyusun tabel responsif di bagian tangkapan layar (screenshot). Pada bagian *Screenshots*, saya telah menggunakan *relative path* menuju direktori `Screenshot/` menggunakan standar penamaan yang logis. Jika file gambar belum dimasukkan ke folder tersebut, maka *fallback message* (*Screenshot belum tersedia*) akan terlihat dengan elegan dan tidak merusak estetika desain dokumentasi Anda.
