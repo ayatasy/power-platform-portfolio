@@ -96,6 +96,3 @@ graph TD
     class PA automate;
     class User,Approver person;
 ```
-
----
-*Dokumentasi ini dikelola sebagai bagian dari panduan teknis Internal Service Apps.*
